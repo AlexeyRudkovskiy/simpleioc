@@ -47,14 +47,14 @@ bintray {
     publications = ['MyPublication']
     pkg {
         repo = 'base-libraries'
-        name = 'IoC Container'
+        name = 'ioc'
         userOrg = user
         licenses = ['Apache-2.0']
         vcsUrl = 'https://github.com/alexeyrudkovskiy/simpleioc.git'
         publicDownloadNumbers = true
         version {
             name = '1.0.0-Alpha'
-            desc = 'SimpleIoC Alpha version'
+            desc = 'IoC Container Alpha version'
         }
     }
 }
