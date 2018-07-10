@@ -1,4 +1,4 @@
-package ua.alexeyrudkovskiy.logger;
+package ua.alexeyrudkovskiy.ioc.logger;
 
 public interface LoggerInterface {
 

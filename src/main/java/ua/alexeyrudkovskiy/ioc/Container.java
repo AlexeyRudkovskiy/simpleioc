@@ -1,12 +1,11 @@
-package ua.alexeyrudkovskiy;
-
-import ua.alexeyrudkovskiy.exceptions.CannotRegisterServiceProvidersException;
+package ua.alexeyrudkovskiy.ioc;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Parameter;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.HashMap;
+import ua.alexeyrudkovskiy.ioc.exceptions.*;
 
 public class Container {
 

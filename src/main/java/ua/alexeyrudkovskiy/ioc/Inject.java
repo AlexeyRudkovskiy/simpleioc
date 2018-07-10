@@ -1,4 +1,4 @@
-package ua.alexeyrudkovskiy;
+package ua.alexeyrudkovskiy.ioc;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

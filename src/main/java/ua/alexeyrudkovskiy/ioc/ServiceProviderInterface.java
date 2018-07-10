@@ -1,4 +1,4 @@
-package ua.alexeyrudkovskiy;
+package ua.alexeyrudkovskiy.ioc;
 
 public interface ServiceProviderInterface {
 

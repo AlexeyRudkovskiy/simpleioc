@@ -1,6 +1,6 @@
-package ua.alexeyrudkovskiy.logger;
+package ua.alexeyrudkovskiy.ioc.logger;
 
-import ua.alexeyrudkovskiy.AbstractServiceProvider;
+import ua.alexeyrudkovskiy.ioc.AbstractServiceProvider;
 
 public class LoggerServiceProvider extends AbstractServiceProvider {
 

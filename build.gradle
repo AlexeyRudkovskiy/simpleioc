@@ -34,8 +34,8 @@ publishing {
     publications {
         MyPublication(MavenPublication) {
             from components.java
-            groupId 'ua.alexeyrudkovskiy'
-            artifactId 'simpleioc'
+            groupId 'ua.alexeyrudkovskiy.ioc'
+            artifactId 'ioc'
             version '1.0.0'
         }
     }
@@ -47,7 +47,7 @@ bintray {
     publications = ['MyPublication']
     pkg {
         repo = 'base-libraries'
-        name = 'SimpleIoC'
+        name = 'IoC Container'
         userOrg = user
         licenses = ['Apache-2.0']
         vcsUrl = 'https://github.com/alexeyrudkovskiy/simpleioc.git'

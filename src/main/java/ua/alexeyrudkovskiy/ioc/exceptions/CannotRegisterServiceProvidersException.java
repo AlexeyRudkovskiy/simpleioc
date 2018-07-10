@@ -1,4 +1,4 @@
-package ua.alexeyrudkovskiy.exceptions;
+package ua.alexeyrudkovskiy.ioc.exceptions;
 
 public class CannotRegisterServiceProvidersException extends Exception {
 }

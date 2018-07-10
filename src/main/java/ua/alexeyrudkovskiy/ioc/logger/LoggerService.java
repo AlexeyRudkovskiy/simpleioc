@@ -1,4 +1,4 @@
-package ua.alexeyrudkovskiy.logger;
+package ua.alexeyrudkovskiy.ioc.logger;
 
 import java.util.Date;
 
